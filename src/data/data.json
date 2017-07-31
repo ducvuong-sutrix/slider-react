@@ -1,0 +1,195 @@
+{
+  "header": {
+    "logo": {
+      "src": "",
+      "title": "logo",
+      "link": "/launch"
+    },
+
+    "mainMenu": [{
+        "link": "/",
+        "title": "Home",
+        "text": "Home"
+      }, {
+        "link": "/services",
+        "title": "Services",
+        "text": "Services"
+      }, {
+        "link": "/news",
+        "title": "News & Event",
+        "text": "News & Event"
+      }, {
+        "link": "/gallery",
+        "title": "Gallery",
+        "text": "Gallery"
+      }, {
+        "link": "/contact-us",
+        "title": "Contact Us",
+        "text": "Contact Us"
+      }, {
+        "link": "/faqs",
+        "title": "Faqs",
+        "text": "Faqs"
+      }]
+  },
+
+  "slider": [{
+    "src": "assets/upload/slider.jpg",
+    "alt": "slide 1",
+    "description": "1At Naturetour we are constantly adding to and improving our portfolio of wildlife holidays to provide you with an even greater choice of wildlife viewing experiences we are constantly adding to and improving."
+  }, {
+    "src": "assets/upload/slider.jpg",
+    "alt": "slide 2",
+    "description": "2At Naturetour we are constantly adding to and improving our portfolio of wildlife holidays to provide you with an even greater choice of wildlife viewing experiences we are constantly adding to and improving."
+  }, {
+    "src": "assets/upload/slider.jpg",
+    "alt": "slide 3",
+    "description": "3At Naturetour we are constantly adding to and improving our portfolio of wildlife holidays to provide you with an even greater choice of wildlife viewing experiences we are constantly adding to and improving."
+  }, {
+    "src": "assets/upload/slider.jpg",
+    "alt": "slide 4",
+    "description": "4At Naturetour we are constantly adding to and improving our portfolio of wildlife holidays to provide you with an even greater choice of wildlife viewing experiences we are constantly adding to and improving."
+  }
+  ],
+
+  "introBlock": {
+    "title": "Welcome to our Web Site !",
+    "description": "Lorem Ipsum consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore Lorem ipsum dolor sit amet, conseter sadipscing elitr, sed diam ipsum dolor sit amet, conseter sadipscing elitr, sed diam Lorem Ipsum consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore Lorem ipsum dolor sit amet, conseter sadipscing elitr, sed diam ipsum dolor sit amet, conseter sadipscing elitr, sed diam invidunt ut labore Lorem ipsum dolor sit amet, conseter sadipscing elitr, sed diam ipsum dolor sit amet, conseter conseter sit...",
+    "introSlider": [{
+      "src": "assets/upload/thumb.jpg",
+      "alt": "intro imag one"
+    },{
+      "src": "assets/upload/thumb.jpg",
+      "alt": "intro imag two"
+    }, {
+      "src": "assets/upload/thumb.jpg",
+      "alt": "intro imag three"
+    }, {
+      "src": "assets/upload/thumb.jpg",
+      "alt": "intro imag four"
+    }]
+  },
+
+  "newsEvent": {
+    "title": "News & Events",
+    "link": "./news",
+    "articles": [{
+      "id": "1",
+      "title": "Consetetur sadipscing nonumy elitr...",
+      "link": "./news/1",
+      "excerpt": "Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore Consetetur sadipscing elitr, diam nonumy eirmod tempor invidunt ut labore..." ,
+      "description": "Each component has several lifecycle methods that you can override to run code at particular times in the process. Methods prefixed with will are called right before something happens, and methods prefixed with did are called right after something happens.",
+      "date": "18.12.2013",
+      "banner": {
+        "src":"assets/upload/thumb-2.jpg",
+        "alt": "Consetetur sadipscing nonumy"
+        }
+      },{
+        "id": "2",
+        "title": "Consetetur sadipscing elitr Consetetur sadipscing elitr Consete..",
+        "link": "./news/2",
+        "excerpt": "Consetetur sadipscing elitr, sed diam nonumy invidunt labore Consetetur Consetetur sadipscing elitr, sed diam nonumy invidunt labore Consetetur..." ,
+        "description": "React is one of Facebook's first open source projects that is both under very active development and is also being used to ship code to everybody on facebook.com. We're still working out the kinks to make contributing to this project as easy and transparent as possible, but we're not quite there yet. Hopefully this document makes the process for contributing clear and answers some questions that you may have.",
+        "date": "18.12.2013"
+      }, {
+        "id": "3",
+        "title": "Consetetur sadipscing elitr Consetetur sadipscing elitr Consete..",
+        "link": "./news/3",
+        "excerpt": "Consetetur sadipscing elitr, sed diam nonumy invidunt labore Consetetur Consetetur sadipscing elitr, sed diam nonumy invidunt labore Consetetur..." ,
+        "description": "React is, in our opinion, the premier way to build big, fast Web apps with JavaScript. It has scaled very well for us at Facebook and Instagram. One of the many great parts of React is how it makes you think about apps as you build them. In this document, we'll walk you through the thought process of building a searchable product data table using React.",
+        "date": "18.12.2013"
+      }]
+  },
+
+  "partners": {
+    "title": "Partners",
+    "partnerSlider":[{
+        "link": "#",
+        "alt": "Logo 1",
+        "src": "assets/upload/logo-1.jpg"
+      },
+      { "link": "#",
+        "alt": "Logo 2",
+        "src": "assets/upload/logo-2.jpg"
+      },
+      { "link": "#",
+        "alt": "Logo 3",
+        "src": "assets/upload/logo-3.jpg"
+      },
+      { "link": "#",
+        "alt": "Logo 4",
+        "src": "assets/upload/logo-4.jpg"
+      },
+      { "link": "#",
+        "alt": "Logo 5",
+        "src": "assets/upload/logo-5.jpg"
+      },
+      { "link": "#",
+        "alt": "Logo 6",
+        "src": "assets/upload/logo-6.jpg"
+      }
+    ]
+  },
+
+  "footer": {
+    "contact": {
+      "title": "Contact us",
+      "address": " 72/4 Truong Quoc Dung Street, Ward 10, Phu Nhuan District, Ho Chi Minh City, Vietnam",
+      "tel": "+84 8 3997 5901",
+      "fax": "+84 8 3997 5900",
+      "email": "Contact-us@sutrixmedia.com"
+    },
+    "quickLinks": [{
+      "text": "Contact us",
+      "title": "Contact us",
+      "link": "/"
+      }, {
+      "text": "Latest News",
+      "title": "Latest News",
+      "link": "/"
+      }, {
+      "text": "FAQs",
+      "title": "FAQs",
+      "link": "/"
+      }, {
+      "text": "Terms & Conditions",
+      "title": "Terms & Conditions",
+      "link": "/"
+      }, {
+      "text": "Privacy Policy",
+      "title": "Privacy Policy",
+      "link": "/"
+    }],
+    "newsletter": {
+      "title": "NEWSLETTER"
+    },
+    "copyright": {
+      "text": "Copyright © 2014 Template Demo All Rights Reserved.",
+      "listLinks": [{
+          "link": "/",
+          "title": "Home",
+          "text": "Home"
+        }, {
+          "link": "/",
+          "title": "Services",
+          "text": "Services"
+        }, {
+          "link": "/",
+          "title": "News & Event",
+          "text": "News & event"
+        }, {
+          "link": "/",
+          "title": "Gallery",
+          "text": "Gallery"
+        }, {
+          "link": "/",
+          "title": "Contact Us",
+          "text": "Contact Us"
+        }, {
+          "link": "/",
+          "title": "Faqs",
+          "text": "Faqs"
+        }]
+    }
+  }
+}
